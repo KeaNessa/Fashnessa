@@ -1,0 +1,7 @@
+{
+  "name": "Fashnessa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
